@@ -94,7 +94,7 @@ class _VitaTesteState extends State<VitaTeste> {
   }
 }
 
-// ---------------- TELA QUIZ ----------------
+//Tela Quiz
 
 class TelaQuiz extends StatelessWidget {
   @override
@@ -129,7 +129,7 @@ class TelaQuiz extends StatelessWidget {
   }
 }
 
-// ---------------- TELA FINANÇAS ----------------
+// Financias
 
 class Financias extends StatefulWidget {
   @override
